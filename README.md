@@ -11,8 +11,6 @@ The paper by Gamboni (2025, to appear) includes a complete description. If you u
 @mastersthesis{gamboni2025a,
 	address = {Joensuu},
 	author = {Gamboni, Enzo},
-	date-added = {2025-04-24 15:11:52 +0300},
-	date-modified = {2025-04-24 15:13:06 +0300},
 	school = {University of Eastern Finland, Philosophical faculty, School of Humanities},
 	title = {sjd-ASR},
 	year = {2025, to appear}}
