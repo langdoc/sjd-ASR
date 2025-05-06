@@ -1,0 +1,3 @@
+[submodule "whisper-small-sjd-v6"]
+	path = whisper-small-sjd-v6
+	url = https://huggingface.co/magnolia-resin/whisper-small-sjd-v6
