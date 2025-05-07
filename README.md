@@ -2,6 +2,8 @@ IN THE WORKS
 # sjd-ASR
 Current version: Alpha (not released yet)
 
+This repository houses the data accompanying the below cited masters thesis. The ASR model included is the Russian-based one (for which the greatest WER was acheived). It should be downloadable and usedable from here, or on HuggingFace (found in the .gitmodules file). 
+
 ## Authors and credits
 The originator of the dataset and main author is Enzo Gamboni. The second author and administrator of this project is [Michael Rießler](https://uefconnect.uef.fi/michael.riesler/).
 
